@@ -38,6 +38,9 @@
 - `6-cons-output.png` (output do consumer)  
 
 
-📬 Contato
-- Kauan Silva
-- https://biolink.website/socialKauanSilva
+## 📬 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/kauansilva96/)
+- [Biolink](https://biolink.website/socialKauanSilva)
+- Email: kauangsilva1996@gmail.com
+
